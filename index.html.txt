@@ -4,6 +4,7 @@
  <title>Git GUI Lab</title>
 </head>
 <body>
+<p>This is a practice lab for using Git GUI effectively.</p>
  <h1>Welcome to the Git GUI Lab!</h1>
 </body>
 </html>
