@@ -2,6 +2,7 @@
 <html>
 <head>
  <title>Git GUI Lab</title>
+<p>This is a practice lab for using Git GUI effectively.</p>
 </head>
 <body>
  <h1>Welcome to the Git GUI Lab!</h1>
